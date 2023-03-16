@@ -1,13 +1,13 @@
 class config:
-    BOT_TOKEN = "6088041437:AAF_MqVbJYDbKbWM3qY-BnQxgY1ydDT9KRI"
-    APP_ID = "10112326"
-    API_HASH = "76b4e277c75aaf991589d78eca42946a"
-    DATABASE_URL = "postgresql://postgres:mTgsSuuNvwrSak1rxnXW@containers-us-west-198.railway.app:7176/railway"
-    SUDO_USERS = "5227230295" # Sepearted by space.
+    BOT_TOKEN = "6037480027:AAE5EwgjOFw57z5wIml0IY19YAzPi4PEmAg"
+    APP_ID = "15138526"
+    API_HASH = "dae27342bc2f0686f8c8322e5a82f2cf"
+    DATABASE_URL = "mongodb+srv://mrgit:hello@cluster0.qeybp0o.mongodb.net/?retryWrites=true&w=majority"
+    SUDO_USERS = "5450390092" # Sepearted by space.
     SUPPORT_CHAT_LINK = ""
     DOWNLOAD_DIRECTORY = "./downloads/"
-    G_DRIVE_CLIENT_ID = "564756005768-5vf0hs66doiptjr9304u9busj2kf4p8d.apps.googleusercontent.com"
-    G_DRIVE_CLIENT_SECRET = "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"
+    G_DRIVE_CLIENT_ID = "457343263872-7kskjpmvs608d9vgulmsic7sum8g58df.apps.googleusercontent.com"
+    G_DRIVE_CLIENT_SECRET = "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"
  
 
 class BotCommands:
